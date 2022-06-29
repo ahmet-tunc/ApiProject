@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32428.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaseStudy.Entities", "CaseStudy.Entities\CaseStudy.Entities.csproj", "{83C7B03D-C6C4-48D2-8BFD-8260FC1549D1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaseStudy.DataAccess", "CaseStudy.DataAccess\CaseStudy.DataAccess.csproj", "{CE23B104-73EA-44F7-8DE7-9B7527054789}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaseStudy.Core", "CaseStudy.Core\CaseStudy.Core.csproj", "{8DC0A0C7-0AA9-4CC4-AC57-1A10F701193F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaseStudy.Business", "CaseStudy.Business\CaseStudy.Business.csproj", "{7FFA56D7-C20B-4AB9-A5B7-46044272909B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaseStudy.Consume", "CaseStudy.Consume\CaseStudy.Consume.csproj", "{7AC5D35A-10AA-43F8-B345-8DFD169503BF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaseStudy.WebApi", "CaseStudy.WebApi\CaseStudy.WebApi.csproj", "{7792D540-D323-4EEA-ACB6-595D54E13694}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83C7B03D-C6C4-48D2-8BFD-8260FC1549D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83C7B03D-C6C4-48D2-8BFD-8260FC1549D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83C7B03D-C6C4-48D2-8BFD-8260FC1549D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83C7B03D-C6C4-48D2-8BFD-8260FC1549D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE23B104-73EA-44F7-8DE7-9B7527054789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE23B104-73EA-44F7-8DE7-9B7527054789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE23B104-73EA-44F7-8DE7-9B7527054789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE23B104-73EA-44F7-8DE7-9B7527054789}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DC0A0C7-0AA9-4CC4-AC57-1A10F701193F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DC0A0C7-0AA9-4CC4-AC57-1A10F701193F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DC0A0C7-0AA9-4CC4-AC57-1A10F701193F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DC0A0C7-0AA9-4CC4-AC57-1A10F701193F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FFA56D7-C20B-4AB9-A5B7-46044272909B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FFA56D7-C20B-4AB9-A5B7-46044272909B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FFA56D7-C20B-4AB9-A5B7-46044272909B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FFA56D7-C20B-4AB9-A5B7-46044272909B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AC5D35A-10AA-43F8-B345-8DFD169503BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AC5D35A-10AA-43F8-B345-8DFD169503BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AC5D35A-10AA-43F8-B345-8DFD169503BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AC5D35A-10AA-43F8-B345-8DFD169503BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7792D540-D323-4EEA-ACB6-595D54E13694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7792D540-D323-4EEA-ACB6-595D54E13694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7792D540-D323-4EEA-ACB6-595D54E13694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7792D540-D323-4EEA-ACB6-595D54E13694}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77B23C3A-B9D9-40C6-84BF-BD4934FE0110}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://sstfs0083.ve.local:8080/tfs/ve_yazilim_bt
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CaseStudy.Business\\CaseStudy.Business.csproj
+		SccProjectName1 = CaseStudy.Business
+		SccLocalPath1 = CaseStudy.Business
+		SccProjectUniqueName2 = CaseStudy.Consume\\CaseStudy.Consume.csproj
+		SccProjectName2 = CaseStudy.Consume
+		SccLocalPath2 = CaseStudy.Consume
+		SccProjectUniqueName3 = CaseStudy.Core\\CaseStudy.Core.csproj
+		SccProjectName3 = CaseStudy.Core
+		SccLocalPath3 = CaseStudy.Core
+		SccProjectUniqueName4 = CaseStudy.DataAccess\\CaseStudy.DataAccess.csproj
+		SccProjectName4 = CaseStudy.DataAccess
+		SccLocalPath4 = CaseStudy.DataAccess
+		SccProjectUniqueName5 = CaseStudy.Entities\\CaseStudy.Entities.csproj
+		SccProjectName5 = CaseStudy.Entities
+		SccLocalPath5 = CaseStudy.Entities
+		SccProjectUniqueName6 = CaseStudy.WebApi\\CaseStudy.WebApi.csproj
+		SccProjectName6 = CaseStudy.WebApi
+		SccLocalPath6 = CaseStudy.WebApi
+	EndGlobalSection
+EndGlobal

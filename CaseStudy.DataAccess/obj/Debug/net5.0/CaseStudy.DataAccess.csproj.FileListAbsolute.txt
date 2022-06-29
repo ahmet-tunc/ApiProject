@@ -1,0 +1,17 @@
+C:\tfs\THE Hiring Challenge\AHMETTUNC\SecondProject\CaseStudy\CaseStudy.DataAccess\bin\Debug\net5.0\CaseStudy.DataAccess.deps.json
+C:\tfs\THE Hiring Challenge\AHMETTUNC\SecondProject\CaseStudy\CaseStudy.DataAccess\bin\Debug\net5.0\CaseStudy.DataAccess.dll
+C:\tfs\THE Hiring Challenge\AHMETTUNC\SecondProject\CaseStudy\CaseStudy.DataAccess\bin\Debug\net5.0\ref\CaseStudy.DataAccess.dll
+C:\tfs\THE Hiring Challenge\AHMETTUNC\SecondProject\CaseStudy\CaseStudy.DataAccess\bin\Debug\net5.0\CaseStudy.DataAccess.pdb
+C:\tfs\THE Hiring Challenge\AHMETTUNC\SecondProject\CaseStudy\CaseStudy.DataAccess\obj\Debug\net5.0\CaseStudy.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\tfs\THE Hiring Challenge\AHMETTUNC\SecondProject\CaseStudy\CaseStudy.DataAccess\obj\Debug\net5.0\CaseStudy.DataAccess.AssemblyInfoInputs.cache
+C:\tfs\THE Hiring Challenge\AHMETTUNC\SecondProject\CaseStudy\CaseStudy.DataAccess\obj\Debug\net5.0\CaseStudy.DataAccess.AssemblyInfo.cs
+C:\tfs\THE Hiring Challenge\AHMETTUNC\SecondProject\CaseStudy\CaseStudy.DataAccess\obj\Debug\net5.0\CaseStudy.DataAccess.csproj.CoreCompileInputs.cache
+C:\tfs\THE Hiring Challenge\AHMETTUNC\SecondProject\CaseStudy\CaseStudy.DataAccess\obj\Debug\net5.0\CaseStudy.DataAccess.dll
+C:\tfs\THE Hiring Challenge\AHMETTUNC\SecondProject\CaseStudy\CaseStudy.DataAccess\obj\Debug\net5.0\ref\CaseStudy.DataAccess.dll
+C:\tfs\THE Hiring Challenge\AHMETTUNC\SecondProject\CaseStudy\CaseStudy.DataAccess\obj\Debug\net5.0\CaseStudy.DataAccess.pdb
+C:\tfs\THE Hiring Challenge\AHMETTUNC\SecondProject\CaseStudy\CaseStudy.DataAccess\obj\Debug\net5.0\CaseStudy.DataAccess.csproj.AssemblyReference.cache
+C:\tfs\THE Hiring Challenge\AHMETTUNC\SecondProject\CaseStudy\CaseStudy.DataAccess\bin\Debug\net5.0\CaseStudy.Core.dll
+C:\tfs\THE Hiring Challenge\AHMETTUNC\SecondProject\CaseStudy\CaseStudy.DataAccess\bin\Debug\net5.0\CaseStudy.Entities.dll
+C:\tfs\THE Hiring Challenge\AHMETTUNC\SecondProject\CaseStudy\CaseStudy.DataAccess\bin\Debug\net5.0\CaseStudy.Core.pdb
+C:\tfs\THE Hiring Challenge\AHMETTUNC\SecondProject\CaseStudy\CaseStudy.DataAccess\bin\Debug\net5.0\CaseStudy.Entities.pdb
+C:\tfs\THE Hiring Challenge\AHMETTUNC\SecondProject\CaseStudy\CaseStudy.DataAccess\obj\Debug\net5.0\CaseStudy.DataAccess.csproj.CopyComplete

@@ -1,0 +1,15 @@
+C:\tfs\THE Hiring Challenge\AHMETTUNC\SecondProject\CaseStudy\CaseStudy.Entities\bin\Debug\net5.0\CaseStudy.Entities.deps.json
+C:\tfs\THE Hiring Challenge\AHMETTUNC\SecondProject\CaseStudy\CaseStudy.Entities\bin\Debug\net5.0\CaseStudy.Entities.dll
+C:\tfs\THE Hiring Challenge\AHMETTUNC\SecondProject\CaseStudy\CaseStudy.Entities\bin\Debug\net5.0\ref\CaseStudy.Entities.dll
+C:\tfs\THE Hiring Challenge\AHMETTUNC\SecondProject\CaseStudy\CaseStudy.Entities\bin\Debug\net5.0\CaseStudy.Entities.pdb
+C:\tfs\THE Hiring Challenge\AHMETTUNC\SecondProject\CaseStudy\CaseStudy.Entities\obj\Debug\net5.0\CaseStudy.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\tfs\THE Hiring Challenge\AHMETTUNC\SecondProject\CaseStudy\CaseStudy.Entities\obj\Debug\net5.0\CaseStudy.Entities.AssemblyInfoInputs.cache
+C:\tfs\THE Hiring Challenge\AHMETTUNC\SecondProject\CaseStudy\CaseStudy.Entities\obj\Debug\net5.0\CaseStudy.Entities.AssemblyInfo.cs
+C:\tfs\THE Hiring Challenge\AHMETTUNC\SecondProject\CaseStudy\CaseStudy.Entities\obj\Debug\net5.0\CaseStudy.Entities.csproj.CoreCompileInputs.cache
+C:\tfs\THE Hiring Challenge\AHMETTUNC\SecondProject\CaseStudy\CaseStudy.Entities\obj\Debug\net5.0\CaseStudy.Entities.dll
+C:\tfs\THE Hiring Challenge\AHMETTUNC\SecondProject\CaseStudy\CaseStudy.Entities\obj\Debug\net5.0\ref\CaseStudy.Entities.dll
+C:\tfs\THE Hiring Challenge\AHMETTUNC\SecondProject\CaseStudy\CaseStudy.Entities\obj\Debug\net5.0\CaseStudy.Entities.pdb
+C:\tfs\THE Hiring Challenge\AHMETTUNC\SecondProject\CaseStudy\CaseStudy.Entities\obj\Debug\net5.0\CaseStudy.Entities.csproj.AssemblyReference.cache
+C:\tfs\THE Hiring Challenge\AHMETTUNC\SecondProject\CaseStudy\CaseStudy.Entities\bin\Debug\net5.0\CaseStudy.Core.dll
+C:\tfs\THE Hiring Challenge\AHMETTUNC\SecondProject\CaseStudy\CaseStudy.Entities\bin\Debug\net5.0\CaseStudy.Core.pdb
+C:\tfs\THE Hiring Challenge\AHMETTUNC\SecondProject\CaseStudy\CaseStudy.Entities\obj\Debug\net5.0\CaseStudy.Entities.csproj.CopyComplete

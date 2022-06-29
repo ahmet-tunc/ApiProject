@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="6.4.0" />
+    <PackageReference Include="Autofac.Extras.DynamicProxy" Version="6.0.1" />
+    <PackageReference Include="FluentValidation" Version="11.0.2" />
+    <PackageReference Include="NETStandard.Library" Version="2.0.3" />
+    <PackageReference Include="System.ServiceModel.Duplex" Version="4.8.*" />
+    <PackageReference Include="System.ServiceModel.Http" Version="4.8.*" />
+    <PackageReference Include="System.ServiceModel.NetTcp" Version="4.8.*" />
+    <PackageReference Include="System.ServiceModel.Security" Version="4.8.*" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!--<ProjectReference Include="..\CaseStudy.Core\CaseStudy.Core.csproj" />-->
+    <ProjectReference Include="..\CaseStudy.Core\CaseStudy.Core.csproj" />
+    <ProjectReference Include="..\CaseStudy.DataAccess\CaseStudy.DataAccess.csproj" />
+    <ProjectReference Include="..\CaseStudy.Entities\CaseStudy.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
